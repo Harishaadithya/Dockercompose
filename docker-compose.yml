@@ -9,4 +9,4 @@ services:
       - nginx:/var/lib/nginx
 
 volumes:
-  web:
+  nginx:
